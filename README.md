@@ -6,3 +6,5 @@ Simple Chat Console using React & Redux
 yarn install
 yarn start
 ```
+
+Next step: Testing
